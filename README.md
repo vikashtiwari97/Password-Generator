@@ -12,7 +12,7 @@
         📋 Copy to clipboard functionality.<br>
         🛠️ Fully responsive design.<br>
        <h2>Usage:</h2>
-        <p>Clone the repository: <code>git clone https://github.com/yourusername/password-generator.git</code></p>
+        <p>Clone the repository: <code>git clone https://github.com/vikashtiwari97/Password-Generator.git</code></p>
         <p>Navigate to the project directory: <code>cd password-generator</code></p>
         <p>Open the <code>index.html</code> file in your preferred web browser.</p>
         <h2>Contributions:</h2>
